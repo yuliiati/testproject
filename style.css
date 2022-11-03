@@ -1,0 +1,49 @@
+main {
+    width: 16git00px;
+}
+.skill{
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+}
+.skill-1{
+    width: 90%;
+    height: 90px;
+    background-color: rgb(205, 219, 3);
+}
+.skill-2{
+    width: 80%;
+    height: 80px;
+    background-color: rgb(219, 3, 46);
+}
+.skill-3{
+    width: 70%;
+    height: 70px;
+    background-color: rgb(3, 219, 39);
+}
+.skill-4{
+    width: 60%;
+    height: 60px;
+    background-color: rgb(241, 7, 128);
+}
+.skill-5{
+    width: 50%;
+    height: 50px;
+    background-color: rgb(252, 144, 11);
+}
+/* .skill-scale {
+    height: 10px;
+    background-color: darkgray;
+}
+.skill-scale-internal {
+    width: 80%;
+    height: 10px;
+    background-color: rgb(66, 10, 220);
+} */
+
+/* aspect-ratio 
+соотношение сторон
+16/9
+16 - ширина 
+9 - высота
+*/
